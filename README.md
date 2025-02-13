@@ -1,2 +1,1 @@
-# Momsy- Maa Si Rasoi
- A website which connects Indian homemaker moms seeking financial stability with the hostellers and working professionals craving for ghar ka khana.
+A platform that bridges Indian homemaker moms looking for financial stability with hostellers and working professionals yearning for homemade food.
